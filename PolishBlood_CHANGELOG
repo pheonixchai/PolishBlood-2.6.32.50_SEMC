@@ -1,0 +1,14 @@
+## Polish Blood Project 2012
+
+Changelogs:
+
+1) 02.05.2012
+
+Inital push to github repo. Kernel based on 2.6.32.9 from Sony updated to 2.6.32.50 using incr patches from kernel.org.
+Supportsed devices:
+-Haida
+-Hallon
+-Coconut
+Tweaks included:
+-Cpufreq governor set to Smartass2 by default
+-Added Simple I/O Governor as default 
