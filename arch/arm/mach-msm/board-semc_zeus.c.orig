@@ -235,10 +235,8 @@ static int pm8058_gpios_init(void)
 static const unsigned int keymap_game[] = {
 	KEY(7, 0, KEY_VOLUMEUP),   /* DBZ2, VOL_UP */
 	KEY(7, 1, KEY_VOLUMEDOWN), /* DBZ2, VOL_DOWN */
-#ifdef CONFIG_INPUT_JOYSTICK
 	KEY(7, 2, BTN_SELECT),     /* DBZ2, S1 */
 	KEY(7, 3, KEY_ENTER),      /* DBZ2, S2 */
-#endif
 };
 
 static struct resource resources_keypad_game[] = {
