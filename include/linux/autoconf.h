@@ -1,7 +1,7 @@
 /*
  * Automatically generated C config: don't edit
  * Linux kernel version: 2.6.32.50
- * Thu May  3 11:46:41 2012
+ * Thu May 17 11:51:22 2012
  */
 #define AUTOCONF_INCLUDED
 #define CONFIG_VIDEO_V4L1_COMPAT 1
@@ -498,7 +498,7 @@
 #define CONFIG_VIRT_TO_BUS 1
 #define CONFIG_MSM_SMD_TTY 1
 #define CONFIG_MD 1
-#define CONFIG_LOCALVERSION "$(KERNEL_LOCAL_VERSION)-PolsihBlood"
+#define CONFIG_LOCALVERSION "$(KERNEL_LOCAL_VERSION)-PolishBlood_NIGHTLY1"
 #define CONFIG_USB_MSM_OTG_72K 1
 #define CONFIG_MEDIA_TUNER_MC44S803 1
 #define CONFIG_DIAG_CHAR 1
