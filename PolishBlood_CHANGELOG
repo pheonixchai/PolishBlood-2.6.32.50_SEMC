@@ -12,3 +12,5 @@ Supportsed devices:
 Tweaks included:
 -Cpufreq governor set to Smartass2 by default
 -Added Simple I/O Governor as default 
+
+2) 07.06.2012 Updated kernel to most current source. Looking for improvments in battery drain and Andreno performance. Now I could use updated props
